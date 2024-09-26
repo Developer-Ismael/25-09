@@ -54,4 +54,8 @@ body {
     text-align: left;
 }
 
-@media 
+footer{
+    background-color: #141414;
+    padding: 1px;
+    color: #141414;
+}
